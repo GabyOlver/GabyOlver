@@ -1,7 +1,8 @@
+<div align="center">
 ### Hola 👋, Soy Ninfa Olvera
 #### Front-End Developer | JavaScript Enthusiast
 ![Front-End Developer | JavaScript Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+</div>
 ```javascript
 const skills = [
   'HTML',
