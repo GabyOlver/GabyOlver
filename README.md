@@ -24,7 +24,8 @@ const aboutMe = `
 
 Soy una apasionada desarrolladora Front-End con experiencia en las siguientes tecnologías: ${skills.join(', ')}.
 
-Enfoco mi trabajo en la creación de interfaces interactivas y optimizadas, y disfruto resolviendo desafíos técnicos para crear soluciones innovadoras. Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
+Enfoco mi trabajo en la creación de interfaces interactivas y optimizadas, y disfruto resolviendo desafíos técnicos
+para crear soluciones innovadoras. Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
 
 ¡Estoy emocionada por colaborar en proyectos interesantes y seguir creciendo en el mundo del desarrollo web!
 
