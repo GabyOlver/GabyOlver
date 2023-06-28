@@ -6,15 +6,24 @@
 </div>
 ```javascript
 const skills = [
-  'HTML',
+  'HTML', 
+  
   'CSS',
+  
   'JavaScript (ES6+)',
+  
   'Node.js',
+  
   'Bootstrap',
+  
   'Firebase (Firestore)',
+  
   'Trello',
+  
   'Jest (Pruebas unitarias)',
+  
   'Git y GitHub'
+  
 ];
 
 const aboutMe = `
