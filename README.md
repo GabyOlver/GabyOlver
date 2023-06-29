@@ -40,8 +40,7 @@ soluciones innovadoras. Siempre estoy buscando oportunidades para aprender y mej
 
 - 🔭 Estoy trabajando en https://github.com/GabyOlver/DEV006-md-links-Gabb 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GabyOlver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ninfa-olvera//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:gabyolv8@hotmail.com)  
+[<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ninfa-olvera//)                                                    [<img src='https://static.cdnlogo.com/logos/o/82/outlook.svg' alt='gmail' height='40'>](mailto:gabyolv8@hotmail.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyOlver)](https://github.com/anuraghazra/github-readme-stats)
 
