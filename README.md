@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ninfa-olvera">
+  <a href="https://www.linkedin.com/in/ninfa-olvera">
 <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'/>  
   </a>
     <a href="mailto:gabyolv8@hotmail.com"> <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' alt='outlook' height='30' width='160'/>
