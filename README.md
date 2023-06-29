@@ -38,5 +38,13 @@
 
 - 🔭 Estoy trabajando en https://github.com/GabyOlver/DEV006-md-links-Gabb
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyOlver)](https://github.com/anuraghazra/github-readme-stats)
+  ---
+
+  ### My Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabyOlver&theme=radical&border_radius=2&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![GabyOlver GitHub stats](https://github-readme-stats.vercel.app/api?username=GabyOlver&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyOlver&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
