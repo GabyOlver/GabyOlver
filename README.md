@@ -5,26 +5,17 @@
 ![Front-End Developer | JavaScript Enthusiast]()
 </div>
 ```javascript
-const skills = [
-  'HTML', 
-  
-  'CSS',
-  
-  'JavaScript (ES6+)',
-  
-  'Node.js',
-  
-  'Bootstrap',
-  
-  'Firebase (Firestore)',
-  
-  'Trello',
-  
-  'Jest (Pruebas unitarias)',
-  
-  'Git y GitHub'
-  
-];
+const skills = [ 
+  'HTML',  
+  'CSS', 
+  'JavaScript (ES6+)', 
+  'Node.js', 
+  'Bootstrap', 
+  'Firebase (Firestore)', 
+  'Trello', 
+  'Jest (Pruebas unitarias)', 
+  'Git y GitHub' ];
+
 
 const aboutMe = `
 ¡Bienvenido/a a mi perfil de GitHub!
