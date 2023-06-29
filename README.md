@@ -19,19 +19,19 @@
 ---
 <div id="tools" align="left">
 <h3> :hammer: Languages and Tools: </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" alt="figma" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height='50'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" height='50'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" alt="figma" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" height='30'/>
 </div>
 
 ---
