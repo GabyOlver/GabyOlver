@@ -3,7 +3,7 @@
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlhZGgxZ3Jmenh3bmt0OGxiMHkxY2ZlN25vOTBzbmY5bHRnb3drdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif' alt='Developer gif' >
   <h2 align="center">  Front-End Developer | JavaScript Enthusiast :computer: </h2>
 
-  <p align="center"> :heart: "Soy una apasionada Desarrolladora Frontend en constante evolución, dedicada a crear experiencias web cautivadoras. Siempre buscando mejorar y aprender en este emocionante mundo del desarrollo web. Estoy en búsqueda de nuevas oportunidades para expandir mis conocimientos y habilidades. ¡Bienvenido/a a mi repositorio!" :heart: </p>
+  <p align="center"> :heart: "Soy una apasionada Desarrolladora Frontend en constante evolución. Siempre buscando mejorar y aprender en este emocionante mundo del desarrollo web. Estoy en búsqueda de nuevas oportunidades para expandir mis conocimientos y habilidades. ¡Bienvenido/a a mi repositorio!" :heart: </p>
 </div>
 
 <div id="badges" align="center">
