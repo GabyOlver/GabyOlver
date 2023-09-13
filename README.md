@@ -32,6 +32,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" height='30'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height='30'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" alt="jasmine" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-plain.svg" alt="karma" height='30'/>
+  
+  
 </div>
 
 ---
