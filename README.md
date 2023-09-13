@@ -36,6 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-plain.svg" alt="karma" height='30'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height='30'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="angularjs" height='30'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" height='30'/>
+  
   
 </div>
 
